@@ -113,4 +113,18 @@ These projects demonstrate my skills in Python programming, data manipulation, e
 - Identifying data quality issues
 - Performing meaningful transformations
 
+### Week 6 – NYC 311 Service Request Analysis
+
+**Topics Covered:**
+- Public Service Request Data
+- Complaint Trend Analysis
+- Data Aggregation
+- Pivot Tables
+- Reporting Insights
+
+**Key Learning Outcomes:**
+- Analyzing large real-world datasets
+- Extracting actionable insights
+- Summarizing data using Pandas
+
 ---
